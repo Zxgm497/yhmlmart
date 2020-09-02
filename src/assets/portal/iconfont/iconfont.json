@@ -1,0 +1,86 @@
+{
+  "id": "1986253",
+  "name": "vue_icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4713571",
+      "name": "front",
+      "font_class": "front",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "16652121",
+      "name": "front",
+      "font_class": "front-copy",
+      "unicode": "e71f",
+      "unicode_decimal": 59167
+    },
+    {
+      "icon_id": "2810743",
+      "name": "xiala",
+      "font_class": "lakai",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "15800119",
+      "name": "close small",
+      "font_class": "closesmall",
+      "unicode": "e71e",
+      "unicode_decimal": 59166
+    },
+    {
+      "icon_id": "12909388",
+      "name": "search close",
+      "font_class": "close",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "82551",
+      "name": "pencil",
+      "font_class": "pencil",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "8428232",
+      "name": "write",
+      "font_class": "write",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "11156241",
+      "name": "paper-plane",
+      "font_class": "paper-plane",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "16325343",
+      "name": "icon-right",
+      "font_class": "icon-right",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "16325200",
+      "name": "plus-circle",
+      "font_class": "plus-circle",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "16325186",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
